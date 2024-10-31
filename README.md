@@ -2,6 +2,12 @@
 
 Dice Duel is a two-player dice-rolling game built with JavaScript, HTML, and CSS. Players take turns rolling the dice to accumulate points, but if they roll a `1`, their turn ends, and they lose their current round's points. The first player to reach or exceed 100 points wins the game!
 
+## Live Demo 🚀
+
+You can play the game online at: [https://dice-duel-game.netlify.app/](https://dice-duel-game.netlify.app/)
+
+Try it out and enjoy the gameplay!
+
 ## Game Rules 📝
 
 1. **Roll the Dice** : On your turn, press "Roll Dice" to roll a six-sided die.
